@@ -1,6 +1,5 @@
 ### Hi there 👋
-<h1>Hola prueba</h1>
- <h4>🔭 I’m currently working on Wallia</h3>
+#### <h4>🔭 I’m currently working on Wallia</h3>
 <!--
 **MigueJimenezR/MigueJimenezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
