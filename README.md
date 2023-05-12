@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### <h4>🔭 I’m currently working on Wallia</h3>
 <p align="center">
-<img src="https://i.pinimg.com/originals/a6/7a/2a/a67a2aaa917fd06458ce74485ebb98ff.gif" alt='dude writing'>
+<img src="https://i.pinimg.com/originals/a6/7a/2a/a67a2aaa917fd06458ce74485ebb98ff.gif" alt='dude writing' style="width: 50%">
 </p>
 <!--
 **MigueJimenezR/MigueJimenezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
