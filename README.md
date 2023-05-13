@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/215/215911.gif" alt='dude writing' style="width: 50%">
+<img src="https://giffiles.alphacoders.com/215/215911.gif" alt='dude writing' style="width: 30%">
 </p>
 
 <!--
