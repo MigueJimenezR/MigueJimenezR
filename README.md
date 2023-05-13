@@ -1,7 +1,9 @@
 ### Hi there 👋
 #### <h3 >**🔭 I’m currently working on Wallia**</h3>
+
+
 <p align="center">
-<img src="https://1.bp.blogspot.com/-N85-3EL0Y6Y/XXfJUn8PPBI/AAAAAAAAACo/tPFh7DiAZvca8vozv2Zrb1Q2dBrSgmAgQCLcBGAs/s1600/BlueAncientIndianelephant-size_restricted.gif" alt='dude writing' style="width: 50%">
+<img src="https://giffiles.alphacoders.com/215/215911.gif" alt='dude writing' style="width: 50%">
 </p>
 
 <!--
@@ -9,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-
+### <h3>**- 🌱 I’m currently learning python</h3> 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
