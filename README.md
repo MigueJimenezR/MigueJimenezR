@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-<h3> ### Hi there 👋</h3>
+<h3>Hi there 👋</h3>
 </p>
+
 #### <h3 >**🔭 I’m currently working on Wallia**</h3>
 ### <h3>** 🌱 I’m currently learning AWS</h3> 
 ### <h3>** 👍 I'm looking to collaborate on projects with innovative ideas.</h3> 
